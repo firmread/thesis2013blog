@@ -1,0 +1,45 @@
+.container,
+.navbar-fixed-top .container,
+.navbar-fixed-bottom .container {
+  width: 1132px !important;
+}
+.span12 {
+  width: 1132px !important;
+}
+.span11 {
+  width: 1036px !important;
+}
+.span10 {
+  width: 940px !important;
+}
+.span9 {
+  width: 844px !important;
+}
+.span8 {
+  width: 748px !important;
+}
+.span7 {
+  width: 652px !important;
+}
+.span6 {
+  width: 556px !important;
+}
+.span5 {
+  width: 460px !important;
+}
+.span4 {
+  width: 364px !important;
+}
+.span3 {
+  width: 268px !important;
+}
+.span2 {
+  width: 172px !important;
+}
+.span1 {
+  width: 76px !important;
+}
+
+
+.view-first .mask { display:none !important;}
+.view-first:hover .mask { display:block !important;}

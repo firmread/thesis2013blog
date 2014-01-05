@@ -1,0 +1,36 @@
+
+/* ---------- BLUE STYLE ---------- */
+
+/* body top border */
+body{border-top:4px #01B5B8 solid}
+/* navigation */
+#menu ul li:first-child>a{border-top:2px solid #01B5B8}
+#menu ul li:first-child>a:after{border-bottom:6px solid #01B5B8}
+#menu ul ul li:first-child a:after{border-right:6px solid #01B5B8}
+#menu ul li:first-child a:hover:after{border-bottom-color:#01B5B8}
+#menu ul ul li:first-child a:hover:after{border-right-color:#01B5B8}
+/* font colors */
+.colored,a{color:#01B5B8}
+.slash-colored{color:#01B5B8}
+.descr a{color:#01B5B8}
+#menu li:hover>a{color:#01B5B8}
+*html #menu li a:hover{color:#01B5B8}
+.hrefnone a:hover{color:#01B5B8}
+.read-more a{color:#01B5B8}
+#themeFilterableNav li a:hover{color:#01B5B8}
+/* backgrounds */
+.colored_bg{background:#01B5B8}
+.prtHeadTitle{background:#01B5B8}
+#TopTrigger{background:#01B5B8;}
+.featbtn{background:#01B5B8}
+.featbtn2{background:#01B5B8}
+#themeFilterableNav li.active-tag{background:#01B5B8}
+/* image hover icons background */
+.view a.info:hover{background-color:#01B5B8!important;}
+.view a.link:hover{background-color:#01B5B8!important;}
+/* top toggle background */
+.top_line{background-color:#01B5B8}
+
+
+
+

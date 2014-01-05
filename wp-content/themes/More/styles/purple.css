@@ -1,0 +1,36 @@
+
+/* ---------- PURPLE STYLE ---------- */
+
+/* body top border */
+body{border-top:4px #934165 solid}
+/* navigation */
+#menu ul li:first-child>a{border-top:2px solid #934165}
+#menu ul li:first-child>a:after{border-bottom:6px solid #934165}
+#menu ul ul li:first-child a:after{border-right:6px solid #934165}
+#menu ul li:first-child a:hover:after{border-bottom-color:#934165}
+#menu ul ul li:first-child a:hover:after{border-right-color:#934165}
+/* font colors */
+.colored,a{color:#934165}
+.slash-colored{color:#934165}
+.descr a{color:#934165}
+#menu li:hover>a{color:#934165}
+*html #menu li a:hover{color:#934165}
+.hrefnone a:hover{color:#934165}
+.read-more a{color:#934165}
+#themeFilterableNav li a:hover{color:#934165}
+/* backgrounds */
+.colored_bg{background:#934165}
+.prtHeadTitle{background:#934165}
+#TopTrigger{background:#934165;}
+.featbtn{background:#934165}
+.featbtn2{background:#934165}
+#themeFilterableNav li.active-tag{background:#934165}
+/* image hover icons background */
+.view a.info:hover{background-color:#934165!important;}
+.view a.link:hover{background-color:#934165!important;}
+/* top toggle background */
+.top_line{background-color:#934165}
+
+
+
+

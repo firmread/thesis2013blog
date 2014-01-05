@@ -1,0 +1,33 @@
+
+/* RED STYLE */
+body{border-top:4px #c84d50 solid}
+
+#menu ul li:first-child>a{border-top:2px solid #c84d50}
+#menu ul li:first-child>a:after{border-bottom:6px solid #c84d50}
+#menu ul ul li:first-child a:after{border-right:6px solid #c84d50}
+#menu ul li:first-child a:hover:after{border-bottom-color:#c84d50}
+#menu ul ul li:first-child a:hover:after{border-right-color:#c84d50}
+
+.colored,a{color:#c84d50}
+.slash-colored{color:#c84d50}
+.descr a{color:#c84d50}
+#menu li:hover>a{color:#c84d50}
+*html #menu li a:hover{color:#c84d50}
+.hrefnone a:hover{color:#c84d50}
+.read-more a{color:#c84d50}
+#themeFilterableNav li a:hover{color:#c84d50}
+
+.colored_bg{background:#c84d50}
+.prtHeadTitle{background:#c84d50}
+#TopTrigger{background:#c84d50;}
+.featbtn{background:#c84d50}
+.featbtn2{background:#c84d50}
+#themeFilterableNav li.active-tag{background:#c84d50}
+
+.view a.info:hover{background-color:#c84d50!important;}
+.view a.link:hover{background-color:#c84d50!important;}
+.top_line{background-color:#c84d50}
+
+
+
+

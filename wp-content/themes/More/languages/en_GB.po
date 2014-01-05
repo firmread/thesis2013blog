@@ -1,0 +1,747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: More + Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-12 18:54+0200\n"
+"PO-Revision-Date: 2012-07-12 18:57+0200\n"
+"Last-Translator: WPelement <info@wpelement.com>\n"
+"Language-Team: Wpelement <info@wpelement.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# More+ Theme
+#: archive.php:21
+msgid "Latest 10 Project"
+msgstr ""
+
+# More+ Theme
+#: archive.php:38
+msgid "Latest 20 Posts"
+msgstr ""
+
+# More+ Theme
+#: archive.php:55
+msgid "Archives by Cat."
+msgstr ""
+
+# More+ Theme
+#: archive.php:64
+msgid "Archives by Month"
+msgstr ""
+
+# More+ Theme
+#: category.php:9
+msgid "Archive for"
+msgstr ""
+
+# More+ Theme
+#: category.php:31
+#: homepagewithslider.php:169
+#: homepage_without_slider.php:66
+#: index.php:56
+msgid "No Comments"
+msgstr ""
+
+# More+ Theme
+#: category.php:31
+#: homepagewithslider.php:169
+#: homepage_without_slider.php:66
+#: index.php:56
+msgid "1 Comment"
+msgstr ""
+
+# More+ Theme
+#: category.php:31
+#: homepagewithslider.php:169
+#: homepage_without_slider.php:66
+#: index.php:56
+msgid "% Comments"
+msgstr ""
+
+# More+ Theme
+#: comments.php:15
+msgid " No Comments"
+msgstr ""
+
+# More+ Theme
+#: comments.php:15
+msgid " 1 Comment"
+msgstr ""
+
+# More+ Theme
+#: comments.php:15
+msgid " % Comments"
+msgstr ""
+
+# More+ Theme
+#: comments.php:42
+msgid "Leave a Comment"
+msgstr ""
+
+# More+ Theme
+#: comments.php:43
+msgid "Please keep in mind that comments are moderated and <code>rel=\"nofollow\"</code> is in use. So, please do not use a spammy keyword or a domain as your name, or it will be deleted. Let us have a personal and meaningful conversation instead."
+msgstr ""
+
+# More+ Theme
+#: comments.php:51
+msgid "You must be"
+msgstr ""
+
+# More+ Theme
+#: comments.php:51
+msgid "logged in"
+msgstr ""
+
+# More+ Theme
+#: comments.php:51
+msgid "to post a comment."
+msgstr ""
+
+# More+ Theme
+#: comments.php:56
+msgid "Logged in as"
+msgstr ""
+
+# More+ Theme
+#: comments.php:56
+msgid "Log out &raquo;"
+msgstr ""
+
+# More+ Theme
+#: comments.php:59
+msgid "Name"
+msgstr ""
+
+# More+ Theme
+#: comments.php:61
+msgid "Email"
+msgstr ""
+
+# More+ Theme
+#: comments.php:63
+msgid "your website (optional)"
+msgstr ""
+
+# More+ Theme
+#: comments.php:66
+msgid "Your Comment..."
+msgstr ""
+
+# More+ Theme
+#: contact.php:100
+msgid "Sorry, an error occured."
+msgstr ""
+
+# More+ Theme
+#: contact.php:103
+msgid "Name:"
+msgstr ""
+
+#: contact.php:107
+msgid "Email:"
+msgstr ""
+
+#: contact.php:111
+msgid "Subject:"
+msgstr ""
+
+#: contact.php:115
+msgid "Message:"
+msgstr ""
+
+#: contact.php:119
+msgid "Send Your Message"
+msgstr ""
+
+#: functions.php:101
+msgid "Portfolio Items"
+msgstr ""
+
+#: functions.php:102
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions.php:103
+msgid "Add New Item"
+msgstr ""
+
+#: functions.php:104
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: functions.php:105
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: functions.php:106
+msgid "New Portfolio Item"
+msgstr ""
+
+#: functions.php:107
+msgid "View Portfolio Item"
+msgstr ""
+
+#: functions.php:108
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: functions.php:109
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: functions.php:110
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: functions.php:137
+#, php-format
+msgid "Portfolio Item updated. <a href=\"%s\">View Portfolio Item</a>"
+msgstr ""
+
+#: functions.php:138
+#: functions.php:674
+msgid "Custom field updated."
+msgstr ""
+
+#: functions.php:139
+#: functions.php:675
+msgid "Custom field deleted."
+msgstr ""
+
+#: functions.php:140
+msgid "Portfolio Item updated."
+msgstr ""
+
+#: functions.php:142
+#, php-format
+msgid "Portfolio Item restored to revision from %s"
+msgstr ""
+
+#: functions.php:143
+#, php-format
+msgid "Portfolio Item published. <a href=\"%s\">View Portfolio Item</a>"
+msgstr ""
+
+#: functions.php:144
+msgid "Portfolio Item saved."
+msgstr ""
+
+#: functions.php:145
+#, php-format
+msgid "Portfolio Item submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio Item</a>"
+msgstr ""
+
+#: functions.php:146
+#, php-format
+msgid "Portfolio Item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Portfolio Item</a>"
+msgstr ""
+
+#: functions.php:148
+#: functions.php:684
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: functions.php:149
+#, php-format
+msgid "Portfolio Item draft updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio Item</a>"
+msgstr ""
+
+#: functions.php:158
+#: functions.php:168
+msgid "Departments"
+msgstr ""
+
+#: functions.php:159
+#: functions.php:188
+msgid "Department"
+msgstr ""
+
+#: functions.php:160
+msgid "Search Departments"
+msgstr ""
+
+#: functions.php:161
+msgid "All Departments"
+msgstr ""
+
+#: functions.php:162
+msgid "Parent Department"
+msgstr ""
+
+#: functions.php:163
+msgid "Parent Department:"
+msgstr ""
+
+#: functions.php:164
+msgid "Edit Department"
+msgstr ""
+
+#: functions.php:165
+msgid "Update Department"
+msgstr ""
+
+#: functions.php:166
+msgid "Add New Department"
+msgstr ""
+
+#: functions.php:167
+msgid "New Department Name"
+msgstr ""
+
+#: functions.php:186
+msgid "Portfolio Title"
+msgstr ""
+
+#: functions.php:187
+msgid "Screen Shot"
+msgstr ""
+
+#: functions.php:189
+#: functions.php:271
+#: functions.php:485
+msgid "Portfolio Item Type"
+msgstr ""
+
+#: functions.php:190
+msgid "Short Description"
+msgstr ""
+
+#: functions.php:273
+msgid "Standart"
+msgstr ""
+
+#: functions.php:275
+#: functions.php:392
+msgid "Gallery"
+msgstr ""
+
+#: functions.php:277
+#: functions.php:476
+msgid "Video"
+msgstr ""
+
+#: functions.php:332
+msgid "Short Description (optional)"
+msgstr ""
+
+#: functions.php:337
+msgid "Project"
+msgstr ""
+
+#: functions.php:342
+msgid "Client"
+msgstr ""
+
+#: functions.php:347
+msgid "Description"
+msgstr ""
+
+#: functions.php:352
+msgid "Technology"
+msgstr ""
+
+#: functions.php:357
+msgid "Launch Project URL"
+msgstr ""
+
+#: functions.php:359
+#: functions.php:744
+msgid "Open link in new window"
+msgstr ""
+
+#: functions.php:367
+msgid "Portfolio Item Details"
+msgstr ""
+
+#: functions.php:415
+msgid "Image 1"
+msgstr ""
+
+#: functions.php:421
+msgid "Image 2"
+msgstr ""
+
+#: functions.php:427
+msgid "Image 3"
+msgstr ""
+
+#: functions.php:433
+msgid "Image 4"
+msgstr ""
+
+#: functions.php:439
+msgid "Image 5"
+msgstr ""
+
+#: functions.php:445
+msgid "Image 6"
+msgstr ""
+
+#: functions.php:451
+msgid "Image 7"
+msgstr ""
+
+#: functions.php:457
+msgid "Image 8"
+msgstr ""
+
+#: functions.php:463
+msgid "Image 9"
+msgstr ""
+
+#: functions.php:469
+msgid "Image 10"
+msgstr ""
+
+#: functions.php:477
+msgid "Video Embed Code"
+msgstr ""
+
+#: functions.php:637
+msgid "Slides"
+msgstr ""
+
+#: functions.php:638
+msgid "Slide"
+msgstr ""
+
+#: functions.php:639
+#: functions.php:640
+msgid "Add New Slide"
+msgstr ""
+
+#: functions.php:641
+msgid "Edit Slide"
+msgstr ""
+
+#: functions.php:642
+msgid "New Slide"
+msgstr ""
+
+#: functions.php:643
+msgid "View Slide"
+msgstr ""
+
+#: functions.php:644
+msgid "Search Slide"
+msgstr ""
+
+#: functions.php:645
+msgid "No Slides found"
+msgstr ""
+
+#: functions.php:646
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: functions.php:673
+#, php-format
+msgid "Slide updated. <a href=\"%s\">View Slide</a>"
+msgstr ""
+
+#: functions.php:678
+#, php-format
+msgid "Slide restored to revision from %s"
+msgstr ""
+
+#: functions.php:679
+#, php-format
+msgid "Slide published. <a href=\"%s\">View Slide</a>"
+msgstr ""
+
+#: functions.php:680
+msgid "Slide saved."
+msgstr ""
+
+#: functions.php:681
+#, php-format
+msgid "Slide submitted. <a target=\"_blank\" href=\"%s\">Preview Slide</a>"
+msgstr ""
+
+#: functions.php:682
+#, php-format
+msgid "Slide scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Slide</a>"
+msgstr ""
+
+#: functions.php:695
+msgid "Slide Title"
+msgstr ""
+
+#: functions.php:696
+msgid "Slide Image"
+msgstr ""
+
+#: functions.php:697
+msgid "Slide Caption"
+msgstr ""
+
+#: functions.php:698
+msgid "Author"
+msgstr ""
+
+#: functions.php:699
+msgid "Date"
+msgstr ""
+
+#: functions.php:741
+msgid "Image Target URL (optional)"
+msgstr ""
+
+#: functions.php:748
+msgid "Image Caption (optional)"
+msgstr ""
+
+#: functions.php:750
+msgid "You can use"
+msgstr ""
+
+#: functions.php:750
+msgid "and"
+msgstr ""
+
+#: functions.php:758
+msgid "Slide Image Attributes"
+msgstr ""
+
+#: functions.php:802
+msgid "Enter subtitle:"
+msgstr ""
+
+#: functions.php:809
+msgid "Page Subtitle"
+msgstr ""
+
+#: functions.php:874
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:939
+msgid "Blog Search Sidebar"
+msgstr ""
+
+#: functions.php:946
+msgid "Blog Sidebar 1"
+msgstr ""
+
+#: functions.php:953
+msgid "Blog Sidebar 2"
+msgstr ""
+
+#: functions.php:960
+msgid "Blog Sidebar 3"
+msgstr ""
+
+#: functions.php:967
+msgid "Blog Sidebar 4"
+msgstr ""
+
+#: functions.php:974
+msgid "Blog Sidebar 5"
+msgstr ""
+
+#: functions.php:982
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:989
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:996
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:1003
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:1018
+#: functions.php:1019
+#: functions.php:1020
+msgid "Featured Image Size"
+msgstr ""
+
+#: header.php:13
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: portfolio_2_columns.php:32
+#: portfolio_3_columns.php:32
+#: portfolio_4_columns.php:32
+msgid "all"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:27
+msgid "Not Found"
+msgstr ""
+
+#: search.php:28
+msgid "Sorry, but no results were found."
+msgstr ""
+
+#: searchform.php:1
+msgid "Enter Your Keyword..."
+msgstr ""
+
+#: single-portfolio.php:134
+msgid "Launch Project"
+msgstr ""
+
+#: functions/comments-template.php:16
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions/comments-template.php:17
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions/comments-template.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/comments-template.php:28
+msgid "(Edit)"
+msgstr ""
+
+#: functions/sidebars.php:16
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions/sidebars.php:17
+#: functions/sidebars.php:31
+msgid "A short description of the sidebar."
+msgstr ""
+
+#: functions/sidebars.php:30
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/nav.php:13
+msgid "Newer &rarr;"
+msgstr ""
+
+#: inc/nav.php:15
+msgid "&larr; Older"
+msgstr ""
+
+#: widgets/widgets.php:26
+msgid "Your contact information"
+msgstr ""
+
+#: widgets/widgets.php:32
+msgid "6 - More+ FOOTER Contact Info"
+msgstr ""
+
+#: widgets/widgets.php:98
+#: widgets/widgets.php:181
+#: widgets/widgets.php:261
+#: widgets/widgets.php:353
+#: widgets/widgets.php:468
+#: widgets/widgets.php:547
+msgid "Title:"
+msgstr ""
+
+#: widgets/widgets.php:105
+msgid "Tel number:"
+msgstr ""
+
+#: widgets/widgets.php:112
+msgid "E-mail:"
+msgstr ""
+
+#: widgets/widgets.php:119
+msgid "Address:"
+msgstr ""
+
+#: widgets/widgets.php:133
+msgid "1 - More+ FOOTER Twitter Tweets"
+msgstr ""
+
+#: widgets/widgets.php:134
+msgid "Display latest Twitter tweets"
+msgstr ""
+
+#: widgets/widgets.php:185
+msgid "Twitter Username:"
+msgstr ""
+
+#: widgets/widgets.php:189
+msgid "Tweets Count:"
+msgstr ""
+
+#: widgets/widgets.php:212
+msgid "2 - More+ FOOTER Flickr Photostream"
+msgstr ""
+
+#: widgets/widgets.php:213
+msgid "Display Flickr Photostream"
+msgstr ""
+
+#: widgets/widgets.php:265
+msgid "Flickr User ID:"
+msgstr ""
+
+#: widgets/widgets.php:269
+msgid "Images Count:"
+msgstr ""
+
+#: widgets/widgets.php:287
+msgid "Display:"
+msgstr ""
+
+#: widgets/widgets.php:307
+msgid "3 - More+ Categories"
+msgstr ""
+
+#: widgets/widgets.php:308
+msgid "A list of post categories"
+msgstr ""
+
+#: widgets/widgets.php:370
+msgid "4 - More+ Featured Posts"
+msgstr ""
+
+#: widgets/widgets.php:371
+msgid "Most populer posts from your blog"
+msgstr ""
+
+#: widgets/widgets.php:472
+msgid "Posts Count:"
+msgstr ""
+
+#: widgets/widgets.php:500
+msgid "5 - More+ Text with Image"
+msgstr ""
+
+#: widgets/widgets.php:501
+msgid "Mostly uses in the sidebar about us"
+msgstr ""
+
+#: widgets/widgets.php:551
+msgid "Image:"
+msgstr ""
+
+#: widgets/widgets.php:553
+msgid "Specify an image address of your image (http://example.com/logo.png)"
+msgstr ""
+
+#: widgets/widgets.php:556
+msgid "Text:"
+msgstr ""
+

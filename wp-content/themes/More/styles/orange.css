@@ -1,0 +1,36 @@
+
+/* ---------- ORANGE STYLE ---------- */
+
+/* body top border */
+body{border-top:4px #F15A23 solid}
+/* navigation */
+#menu ul li:first-child>a{border-top:2px solid #F15A23}
+#menu ul li:first-child>a:after{border-bottom:6px solid #F15A23}
+#menu ul ul li:first-child a:after{border-right:6px solid #F15A23}
+#menu ul li:first-child a:hover:after{border-bottom-color:#F15A23}
+#menu ul ul li:first-child a:hover:after{border-right-color:#F15A23}
+/* font colors */
+.colored,a{color:#F15A23}
+.slash-colored{color:#F15A23}
+.descr a{color:#F15A23}
+#menu li:hover>a{color:#F15A23}
+*html #menu li a:hover{color:#F15A23}
+.hrefnone a:hover{color:#F15A23}
+.read-more a{color:#F15A23}
+#themeFilterableNav li a:hover{color:#F15A23}
+/* backgrounds */
+.colored_bg{background:#F15A23}
+.prtHeadTitle{background:#F15A23}
+#TopTrigger{background:#F15A23;}
+.featbtn{background:#F15A23}
+.featbtn2{background:#F15A23}
+#themeFilterableNav li.active-tag{background:#F15A23}
+/* image hover icons background */
+.view a.info:hover{background-color:#F15A23!important;}
+.view a.link:hover{background-color:#F15A23!important;}
+/* top toggle background */
+.top_line{background-color:#F15A23}
+
+
+
+
