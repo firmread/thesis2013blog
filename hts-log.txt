@@ -1,0 +1,63 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 09 Jul 2016 12:40:26 at thesis2013.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" thesis2013.tothong.com -O1 "\\Mac\Home\Downloads\My Web Sites\thesis2013" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:42:53	Error: 	"Method Not Allowed" (405) at link thesis2013.tothong.com/xmlrpc.php (from thesis2013.tothong.com/)
+12:42:53	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/comments/feed/ (from thesis2013.tothong.com/)
+12:43:25	Error: 	"Not Found" (404) at link thesis2013.tothong.com/wp-content/themes/More/admin/images/favicon.ico (from thesis2013.tothong.com/)
+12:44:55	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2013/04/stagedesign.jpg (from thesis2013.tothong.com/)
+12:44:55	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/level-and-narrative/ (from thesis2013.tothong.com/)
+12:46:12	Error: 	"Not Found" (404) at link thesis2013.tothong.com/wp-content/themes/More/assets/img/bl.png (from thesis2013.tothong.com/wp-content/themes/More/assets/css/main.css?ver=4.4.2)
+12:46:12	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/themes/More/assets/images/prettyPhoto/light_square/btnNext.png (from thesis2013.tothong.com/wp-content/themes/More/assets/css/prettyPhoto.css?ver=4.4.2)
+12:46:13	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/storyboard/ (from thesis2013.tothong.com/blog/)
+12:46:48	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/ (from thesis2013.tothong.com/blog/)
+12:46:55	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/category/inspiration/ (from thesis2013.tothong.com/blog/)
+12:46:57	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/playtech-fall-2012/ (from thesis2013.tothong.com/blog/)
+12:48:25	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2013/04/stagedesign.jpg (from thesis2013.tothong.com/)
+12:48:35	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/Screen-Shot-2013-04-08-at-3.39.36-AM.png (from thesis2013.tothong.com/paper-prototype/)
+12:48:45	Error: 	"Not Found" (404) at link thesis2013.tothong.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Julaa)
+12:48:45	Error: 	"Not Found" (404) at link thesis2013.tothong.com/g.gif (from stats.wp.com/e-201627.js)
+12:48:45	Error: 	"Not Found" (404) at link thesis2013.tothong.com/c.gif (from stats.wp.com/e-201627.js)
+12:51:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 1354874 got 940019): thesis2013.tothong.com/wp-content/uploads/2013/02/1.jpg
+12:52:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 3724660 got 945859): thesis2013.tothong.com/wp-content/uploads/2013/02/2.jpg
+12:52:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 1080999 got 970679): thesis2013.tothong.com/wp-content/uploads/2013/02/SCN_0007.jpg
+12:53:20	Warning: 	file not stored in cache due to bogus state (broken size, expected 1093224 got 940019): thesis2013.tothong.com/wp-content/uploads/2013/02/3.jpg
+12:54:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 1287213 got 937099): thesis2013.tothong.com/wp-content/uploads/2013/02/SCN_0003.jpg
+12:58:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 2639471 got 942939): thesis2013.tothong.com/wp-content/uploads/2012/11/2012-11-28-21.54.25.jpg
+13:00:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 1988818 got 958999): thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0008.jpg
+13:01:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 1669701 got 961919): thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0009.jpg
+13:02:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 2138591 got 2137503): thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0007.jpg
+13:12:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 1449533 got 941479): thesis2013.tothong.com/wp-content/uploads/2012/11/drownhelpshout.jpg
+13:12:31	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2012/12/Screen-Shot-2012-12-04-at-11.30.57-PM-768x1024.png (from thesis2013.tothong.com/game-arts/)
+13:13:07	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthesis2013.tothong.com%2Fstoryboard%2F (from thesis2013.tothong.com/storyboard/)
+13:13:11	Warning: 	Retry after error -4 (Incorrect length (940019 Bytes, 1354874 expected)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/1.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:13:11	Warning: 	Retry after error -4 (Incorrect length (945859 Bytes, 3724660 expected)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/2.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:13:26	Warning: 	Retry after error -4 (Incorrect length (970679 Bytes, 1080999 expected)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/SCN_0007.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:13:40	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/tiletype.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:13:44	Warning: 	Retry after error -4 (Incorrect length (940019 Bytes, 1093224 expected)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/3.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:14:10	Warning: 	Retry after error -4 (Incorrect length (937099 Bytes, 1287213 expected)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/SCN_0003.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:14:17	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/guest-180x300.jpg (from thesis2013.tothong.com/back-to-the-core/)
+13:14:21	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/SCN_0001.jpg (from thesis2013.tothong.com/back-to-the-core/)
+13:15:07	Warning: 	Retry after error -4 (No data (connection closed)) at link thesis2013.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthesis2013.tothong.com%2Fjournal-november-28-iterate-iterate-iterate%2F (from thesis2013.tothong.com/journal-november-28-iterate-iterate-iterate/)
+13:15:11	Warning: 	Retry after error -4 (Incorrect length (942939 Bytes, 2639471 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/2012-11-28-21.54.25.jpg (from thesis2013.tothong.com/journal-november-28-iterate-iterate-iterate/)
+13:15:27	Warning: 	Retry after error -4 (Incorrect length (2137503 Bytes, 2138591 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0007.jpg (from thesis2013.tothong.com/storybrainstorm/)
+13:15:29	Warning: 	Retry after error -4 (Incorrect length (958999 Bytes, 1988818 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0008.jpg (from thesis2013.tothong.com/storybrainstorm/)
+13:15:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 3724660 got 1885820): thesis2013.tothong.com/wp-content/uploads/2013/02/2.jpg
+13:15:42	Warning: 	Retry after error -4 (Incorrect length (961919 Bytes, 1669701 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0009.jpg (from thesis2013.tothong.com/storybrainstorm/)
+13:16:17	Warning: 	Retry after error -4 (Incorrect length (941479 Bytes, 1449533 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/drownhelpshout.jpg (from thesis2013.tothong.com/storyboard-draft-1/)
+13:17:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 1669701 got 1668383): thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0009.jpg
+13:17:37	Warning: 	Retry after error -4 (Incorrect length (1885820 Bytes, 3724660 expected)) at link thesis2013.tothong.com/wp-content/uploads/2013/02/2.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+13:17:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 2639471 got 1906260): thesis2013.tothong.com/wp-content/uploads/2012/11/2012-11-28-21.54.25.jpg
+13:17:44	Warning: 	Retry after error -4 (Incorrect length (1906260 Bytes, 2639471 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/2012-11-28-21.54.25.jpg (from thesis2013.tothong.com/journal-november-28-iterate-iterate-iterate/)
+13:17:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 1988818 got 1931080): thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0008.jpg
+13:17:59	Warning: 	Retry after error -4 (Incorrect length (1931080 Bytes, 1988818 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0008.jpg (from thesis2013.tothong.com/storybrainstorm/)
+13:17:59	Warning: 	Retry after error -4 (Incorrect length (1668383 Bytes, 1669701 expected)) at link thesis2013.tothong.com/wp-content/uploads/2012/11/cSCN_0009.jpg (from thesis2013.tothong.com/storybrainstorm/)
+13:18:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 3724660 got 2825780): thesis2013.tothong.com/wp-content/uploads/2013/02/2.jpg
+13:18:58	Error: 	"Incorrect length (2825780 Bytes, 3724660 expected)" (-4) after 2 retries at link thesis2013.tothong.com/wp-content/uploads/2013/02/2.jpg (from thesis2013.tothong.com/start-off-second-semester-paper-prototype-time/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 38 minutes 32 seconds : 435 links scanned, 397 files written (54609174 bytes overall) [55983938 bytes received at 24214 bytes/sec], 2229096 bytes transferred using HTTP compression in 116 files, ratio 27%, 3.4 requests per connection
+(7 errors, 45 warnings, 0 messages)

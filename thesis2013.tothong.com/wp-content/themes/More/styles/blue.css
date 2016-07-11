@@ -1,0 +1,36 @@
+
+/* ---------- BLUE STYLE ---------- */
+
+/* body top border */
+body{border-top:4px #69C1E7 solid}
+/* navigation */
+#menu ul li:first-child>a{border-top:2px solid #69C1E7}
+#menu ul li:first-child>a:after{border-bottom:6px solid #69C1E7}
+#menu ul ul li:first-child a:after{border-right:6px solid #69C1E7}
+#menu ul li:first-child a:hover:after{border-bottom-color:#69C1E7}
+#menu ul ul li:first-child a:hover:after{border-right-color:#69C1E7}
+/* font colors */
+.colored,a{color:#69C1E7}
+.slash-colored{color:#69C1E7}
+.descr a{color:#69C1E7}
+#menu li:hover>a{color:#69C1E7}
+*html #menu li a:hover{color:#69C1E7}
+.hrefnone a:hover{color:#69C1E7}
+.read-more a{color:#69C1E7}
+#themeFilterableNav li a:hover{color:#69C1E7}
+/* backgrounds */
+.colored_bg{background:#69C1E7}
+.prtHeadTitle{background:#69C1E7}
+#TopTrigger{background:#69C1E7;}
+.featbtn{background:#69C1E7}
+.featbtn2{background:#69C1E7}
+#themeFilterableNav li.active-tag{background:#69C1E7}
+/* image hover icons background */
+.view a.info:hover{background-color:#69C1E7!important;}
+.view a.link:hover{background-color:#69C1E7!important;}
+/* top toggle background */
+.top_line{background-color:#69C1E7}
+
+
+
+
